@@ -12,7 +12,6 @@ There are obvious issues that can arise from the contextual setting of landing o
 ### Notebook Description
 This notebook is meant for exploration and notes for the TUH EEG dataset, alongside with ideas on what to extract from it.
 
-### Notes:
 The next step will be to extract the necessary samples.
 around 300-500 of control and maybe 100 of diagnosed schizophrenics (not on meds) to enhance our initial dataset.
 
