@@ -6,6 +6,12 @@ Create a machine/deep learning based model which will sucessfully predict if a 2
 ### Why: 
 To enhance quick diagnosis of patients that land in the emergency room to get to know if they're schizophrenic and need specializied care.
 
+### Who:
+Research is a team effort, 3-4 people on board at the moment. 
+
+### Code:
+Not sure about sharing all code (privacy etc) but i will aim to share the most of it. 
+
 ### Notes:
 There are obvious issues that can arise from the contextual setting of landing on ER that will have to be accounted for if we manage to make a working model based on the dataset.
 
