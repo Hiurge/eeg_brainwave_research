@@ -22,5 +22,7 @@ The next step will be to extract the necessary samples.
 around 300-500 of control and maybe 100 of diagnosed schizophrenics (not on meds) to enhance our initial dataset.
 
 ### Goals:
-Find the best way to traverse through the TUH EEG dataset.
+1. ~Find the best way to traverse through the TUH EEG dataset.~
+2. ~Get a sample that will be used for the prototype models.~
+3. Create a prototype model.
 
