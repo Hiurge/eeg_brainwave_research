@@ -124,6 +124,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Remove any .CSV and .XSLX files
+# Remove any .CSV and .XSLX files AND pdf files
 *.CSV
 *.XSLX
+*.pdf
